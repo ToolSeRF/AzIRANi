@@ -2,7 +2,7 @@ name: Sync configs from server
 
 on:
   schedule:
-    - cron: "15 */1 * * *" 
+    - cron: "15 */1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,24 +16,22 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download files from server
+      - name: Download files from server (root)
         run: |
           set -e
-          mkdir -p configs
 
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllConfigs.txt" -o configs/AllConfigs.txt
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllVmess.txt" -o configs/AllVmess.txt
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllVless.txt" -o configs/AllVless.txt
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllTrojan.txt" -o configs/AllTrojan.txt
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllShadowSocks.txt" -o configs/AllShadowSocks.txt
-          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/tgchannelsconfig.txt" -o configs/tgchannelsconfig.txt
+          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllConfigs.txt" -o AllConfigs.txt
+          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllVmess.txt" -o AllVmess.txt
+          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllVless.txt" -o AllVless.txt
+          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllTrojan.txt" -o AllTrojan.txt
+          curl -fsSL "http://${{ secrets.CONFIG_SERVER_IP }}/AllShadowSocks.txt" -o AllShadowSocks.txt
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add configs/*.txt
+          git add AllConfigs.txt AllVmess.txt AllVless.txt AllTrojan.txt AllShadowSocks.txt
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
