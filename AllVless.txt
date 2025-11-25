@@ -1,3 +1,0 @@
-vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?encryption=none&security=tls&sni=soft98m.dPdNS.OrG&insecure=0&allowinsecure=0&type=ws&host=soft98m.dpdns.org&path=%2FeyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#%40Freedom-Mojahed
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&sni=eh.vk.com&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&flow=xtls-rprx-vision&encryption=none#%40Freedom-Mojahed
-vless://1ab0cee7-7ac1-4480-be8a-6b4dab5f81c4@dkfdbnodbd.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#%40Freedom-Segaro
