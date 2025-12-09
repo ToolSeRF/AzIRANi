@@ -1,0 +1,1 @@
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Nima-Shafighdoust-%40azirani
