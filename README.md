@@ -11,17 +11,16 @@
 - ارائه ی منظو کانفیگ ها در گوگل درایو
 - ارائه ی منظم کانفیگ ها در کانال تلگرام
 - ارائه ی منظم کانفیگ ها در بات تلگرام
+- به اشتراک گذاری آسان کانفیگ ها از طریق قابلیت اینلاین بات
 - دسترسی آسان از طریق گیت هاب و گوگل درایو در صورت عدم دسترسی به تلگرام
-- ارائه ی حداکثر 30 کانفیگ در لیست کلی برای عدم سر درگمی در اتصال
-- ارائه ی حداکثر 6 کانفیگ برای هر proto برای اتصالی راحت تر
+- ارائه ی حداکثر 40 کانفیگ در لیست کلی برای عدم سر درگمی در اتصال
+- ارائه ی حداکثر 10 کانفیگ برای هر proto برای اتصالی راحت تر
 
   
 ## اگر به فیلترشکن دسترسی نداشتید
 در گوگل درایو با لینک های زیر و یا گیت هاب به راحتی به کانفیگ ها دسترسی خواهید داشت
 
 [دسترسی به تمام کانفیگ ها در گوگل درایو ](https://docs.google.com/document/d/149fGumT-7jGGsXqbI78T0zBErdYaDl6YBkB7pp3ph5M/)
-
-
 
 [دسترسی به تمام کانفیگ های VMESS در گوگل درایو ](https://docs.google.com/document/d/1Cmsu9tFONMM2pvYZNrS38tiL2l5LdTsHHQ5uDy-ww4I/)
 
@@ -32,16 +31,17 @@
 [دسترسی به تمام کانفیگ های SHADOWSOCKS در گوگل درایو ](https://docs.google.com/document/d/1DatzdidgiHYoZWKOS_s9SKT-EswZ9dc2xUfQtfvyzE4/)
 
 
+دسترسی مستقیم از طریق گیت هاب ( همچنین میتوانید از لینک ها به عنوان سابسکریپشن در نرم افزار های مربوطه استفاده کنید)
 
-[دسترسی به تمام کانفیگ ها در گیت هاب ](AllConfigs.txt)
+[دسترسی به تمام کانفیگ ها در گیت هاب ](https://raw.githubusercontent.com/ToolSeRF/AzIRANi/refs/heads/main/AllConfigs.txt)
 
-[دسترسی به تمام کانفیگ های VMESS در گیت هاب ](AllVmess.txt)
+[دسترسی به تمام کانفیگ های VMESS در گیت هاب ](https://raw.githubusercontent.com/ToolSeRF/AzIRANi/refs/heads/main/AllVmess.txt)
 
-[دسترسی به تمام کانفیگ های VLESS در گیت هاب ](AllVless.txt)
+[دسترسی به تمام کانفیگ های VLESS در گیت هاب ](https://raw.githubusercontent.com/ToolSeRF/AzIRANi/refs/heads/main/AllVless.txt)
 
-[دسترسی به تمام کانفیگ های TROJAN در گیت هاب ](AllTrojan.txt)
+[دسترسی به تمام کانفیگ های TROJAN در گیت هاب ](https://raw.githubusercontent.com/ToolSeRF/AzIRANi/refs/heads/main/AllTrojan.txt)
 
-[دسترسی به تمام کانفیگ های SHADOWSOCKS در گیت هاب ](AllShadowSocks.txt)
+[دسترسی به تمام کانفیگ های SHADOWSOCKS در گیت هاب ](https://raw.githubusercontent.com/ToolSeRF/AzIRANi/refs/heads/main/AllShadowSocks.txt)
 
 
 
@@ -51,6 +51,43 @@
 [کانال تلگرام جهت دسترسی به کانفیگ ها ](https://t.me/AzIRANi)
 
 [بات تلگرام جهت دسترسی به کانفیگ ها ](https://t.me/AzIRANiBot)
+
+
+## اشتراک گذاری
+- علاوه بر ارسال لینک های برای برای دوستانتان می توانید ابتدا بات ازایرانی را استارت کنید سپس در گروه ها یا صفحه چت دوستانتان با استفاده از صدا زدن بات و کانفیگ دلخواهتان آن را به اشتراک بگذارید
+- 
+<img width="411" height="44" alt="image" src="https://github.com/user-attachments/assets/ad0866a8-c2f6-4db6-84ec-3add3e0c93e8" />
+
+- @aziranibot all
+
+<img width="357" height="126" alt="image" src="https://github.com/user-attachments/assets/d48fa165-0373-4151-bffb-4d18ccf6e05f" />
+
+- @aziranibot vless
+
+<img width="373" height="124" alt="image" src="https://github.com/user-attachments/assets/8f219cd3-64de-4096-9a37-92d208f6ec18" />
+
+- @aziranibot vmess
+
+- @aziranibot trojan
+
+- @aziranibot shadowsocks
+
+
+
+- اشتراک گذاری همچنین میتواند از طریق لینک مستقیم بات صورت بگیرد، همچنین کاربران میتوانند با استفاده از روشن کردن اعلان و تعیین نوع آن بعد از هربار بروزرسانی آن را از بات دریافت کنند
+
+<img width="274" height="43" alt="image" src="https://github.com/user-attachments/assets/4cdc091f-fe88-4423-ab8b-b36cba29b3c4" />
+
+<img width="215" height="323" alt="image" src="https://github.com/user-attachments/assets/9e73c004-03d3-4da2-b2a7-14c0ff378d59" />
+
+### لینک به اشتراک گذاری بات برای دوستانتان به صورت مستقیم
+
+- https://t.me/aziranibot?start=allconfigs
+- https://t.me/aziranibot?start=vless
+- https://t.me/aziranibot?start=vmess
+- https://t.me/aziranibot?start=trojan
+- https://t.me/aziranibot?start=shadowsocks
+
 
 
 
