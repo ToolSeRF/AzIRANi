@@ -1,5 +1,1 @@
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?security=tls&sni=www.nintendogames.net#Abolfazl-Amirataei-%40azirani
-trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.73.102:1331?security=tls&sni=www.nintendogames.net#Ehsan-Khajavi-Darreh-Balaei-%40azirani
-trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.110.82:443/?type=tcp&security=tls&sni=www.nintendogames.net&allowinsecure=1#Ainaz-Javaheri-%40azirani
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowinsecure=1#Nima-Noori-%40azirani
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Barzin-Hamzehzadeh-%40azirani
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Yaser-Bahadorzehi-%40azirani
