@@ -1,1 +1,1 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Abdollah-Mohammadpour-%40azirani
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Mohammadjavad-Zamani-%40azirani
