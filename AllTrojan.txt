@@ -1,2 +1,0 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headertype=none&type=tcp&sni=diningtable.electricbanana.click#Seyyedmehdi-Mousavi-%40azirani
-trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowinsecure=1#Reza-Kazemi-%40azirani
