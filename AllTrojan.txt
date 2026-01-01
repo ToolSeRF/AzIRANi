@@ -1,1 +1,2 @@
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#Amirali-Fouladi-%40azirani
+trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080/?type=tcp&sni=wikipedia.org&fp=chrome&security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&sid=20b8da6c1f3a9ed7#Ainaz-Javaheri-%40azirani
+trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&alpn=h2%2Chttp%2F1.1&headertype=none&fp=chrome&type=tcp&sni=ru2.nnvpn.io#Nima-Shafighdoust-%40azirani
